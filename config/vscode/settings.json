@@ -12,11 +12,8 @@
 	"vscode_vibrancy.preferedDarkTheme": "Catppuccin Mocha",
 	"vscode_vibrancy.opacity": -1,
 	"editor.fontSize": 13,
-	"prettier.jsxSingleQuote": true,
 	"prettier.proseWrap": "always",
 	"prettier.singleAttributePerLine": true,
-	"prettier.singleQuote": true,
-	"prettier.trailingComma": "none",
 	"prettier.useTabs": true,
 	"editor.formatOnSave": true,
 	"files.associations": {
